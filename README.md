@@ -74,7 +74,7 @@ API | Description | Auth | HTTPS | CORS |
 <br />
 <br />
 API | Description | Auth | HTTPS | CORS | Call this API |
-|---|:---|:---|:---|:---|
+|---|:---|:---|:---|:---|:---|
 | [Collivery.net API V3](https://collivery.net/integration/api/v3/) | The Collivery.net courier API. | `api_token` | Yes | Unknown | |
 | [i-TRAFFIC](https://www.i-traffic.co.za/developers/help) | The REST API enables developers to access essential data on the i-TRAFFIC website including Incidents, Roadwork, and Cameras. | `developerKey` | Yes | Unknown | | 
 | [PUDO API](https://api-pudo.co.za/) | The API is designed to provide you with robust and flexible tools to integrate PUDO's capabilities. | No | Yes | Unknown | | 
