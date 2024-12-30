@@ -16,9 +16,9 @@ The Public APIs repository is manually curated by community members like yoursel
 
 ## Index
 
-* [Artificial Intelligence](#artificial--intelligence)
+* [Artificial Intelligence](#artificial-intelligence)
 * [Healthcare](#healthcare)
-* [Financial Services](#financial--services)
+* [Financial Services](#financial-services)
 * [Telecommunications](#telecommunications)
 * [Traffic](#traffic)
 
