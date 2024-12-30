@@ -23,7 +23,6 @@ The Public APIs repository is manually curated by community members like yoursel
 * [Geography](#geography)
 * [Maps](#maps)
 * [Telecommunications](#telecommunications)
-* [Traffic](#traffic)
 * [Transportation](#transportation)
 
 <br />
@@ -73,18 +72,11 @@ API | Description | Auth | HTTPS | CORS |
 **[⬆ Back to Index](#index)**
 <br />
 <br />
-### Traffic
-API | Description | Auth | HTTPS | CORS |
-|---|:---|:---|:---|:---|
-| [i-TRAFFIC](https://www.i-traffic.co.za/developers/help) | The REST API enables developers to access essential data on the i-TRAFFIC website including Incidents, Roadwork, and Cameras. | `developerKey` | Yes | Unknown | 
-
-**[⬆ Back to Index](#index)**
-<br />
-<br />
 ### Transportation
 API | Description | Auth | HTTPS | CORS |
 |---|:---|:---|:---|:---|
-| [PUDO API](https://api-pudo.co.za/) | The API is designed to provide you with robust and flexible tools to integrate PUDO's capabilities. | No | Yes | Unknown | 
+| [i-TRAFFIC](https://www.i-traffic.co.za/developers/help) | The REST API enables developers to access essential data on the i-TRAFFIC website including Incidents, Roadwork, and Cameras. | `developerKey` | Yes | Unknown | 
+| [PUDO API](https://api-pudo.co.za/) | The API is designed to provide you with robust and flexible tools to integrate PUDO's capabilitiess. | No | Yes | Unknown | 
 
 **[⬆ Back to Index](#index)**
 <br />
