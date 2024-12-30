@@ -65,6 +65,14 @@ API | Description | Auth | HTTPS | CORS |
 **[⬆ Back to Index](#index)**
 <br />
 <br />
+### Other
+API | Description | Auth | HTTPS | CORS |
+|---|:---|:---|:---|:---|
+| [EskomSePush API V2.0](https://eskomsepush.gumroad.com/l/api) | The Eskom Loadshedding API provided by EskomSePush. | `esp_token` | Yes | Unknown |
+
+**[⬆ Back to Index](#index)**
+<br />
+<br />
 ### Telecommunications
 API | Description | Auth | HTTPS | CORS |
 |---|:---|:---|:---|:---|
