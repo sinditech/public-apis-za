@@ -1,7 +1,7 @@
 # Try these South African Public APIs
 The Public APIs repository is manually curated by community members like yourself.  It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years.
 
-<br >
+<br />
 
 ## Learn more about Public APIs
 
@@ -22,7 +22,7 @@ The Public APIs repository is manually curated by community members like yoursel
 * [Telecommunications](#telecommunications)
 * [Traffic](#traffic)
 
-<br >
+<br />
 
 ### Artificial Intelligence
 API | Description | Auth | HTTPS | CORS 
@@ -30,26 +30,26 @@ API | Description | Auth | HTTPS | CORS
 | [Vulavula API](https://docs.lelapa.ai/category/vulavula-api) | Create deeply connected customer experiences for local African languages with the Vulavula API | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
-<br >
-<br >
+<br />
+<br />
 ### Financial Services
 API | Description | Auth | HTTPS | CORS 
 |:---|:---|:---|:---|:---|
 | [NedBank API Marketplace](https://apim.nedbank.co.za/) | Resources to help of all NedBank public APIs | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
-<br >
-<br >
+<br />
+<br />
 ### Traffic
 API | Description | Auth | HTTPS | CORS |
 |---|:---|:---|:---|:---|
 | [i-TRAFFIC](https://www.i-traffic.co.za/developers/help) | The REST API enables developers to access essential data on the i-TRAFFIC website including Incidents, Roadwork, and Cameras. | `developerKey` | Yes | Unknown | |
 
 **[⬆ Back to Index](#index)**
-<br >
-<br >
+<br />
+<br />
 
-<br>
+<br />
 
 ## License
-[MIT](LICENSE) (c) 2024 public-apis
+[MIT](LICENSE) (c) 2024 public-apis-za
