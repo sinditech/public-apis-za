@@ -24,6 +24,7 @@ The Public APIs repository is manually curated by community members like yoursel
 * [Maps](#maps)
 * [Telecommunications](#telecommunications)
 * [Transportation](#transportation)
+* [Other](#other)
 
 <br />
 
@@ -72,11 +73,12 @@ API | Description | Auth | HTTPS | CORS |
 **[⬆ Back to Index](#index)**
 <br />
 <br />
-### Transportation
-API | Description | Auth | HTTPS | CORS |
+API | Description | Auth | HTTPS | CORS | Call this API |
 |---|:---|:---|:---|:---|
-| [i-TRAFFIC](https://www.i-traffic.co.za/developers/help) | The REST API enables developers to access essential data on the i-TRAFFIC website including Incidents, Roadwork, and Cameras. | `developerKey` | Yes | Unknown | 
-| [PUDO API](https://api-pudo.co.za/) | The API is designed to provide you with robust and flexible tools to integrate PUDO's capabilitiess. | No | Yes | Unknown | 
+| [Collivery.net API V3](https://collivery.net/integration/api/v3/) | The Collivery.net courier API. | `api_token` | Yes | Unknown | |
+| [i-TRAFFIC](https://www.i-traffic.co.za/developers/help) | The REST API enables developers to access essential data on the i-TRAFFIC website including Incidents, Roadwork, and Cameras. | `developerKey` | Yes | Unknown | | 
+| [PUDO API](https://api-pudo.co.za/) | The API is designed to provide you with robust and flexible tools to integrate PUDO's capabilities. | No | Yes | Unknown | | 
+| [WumDrop API](https://za.wumdrop.com/developers) | WumDrop on-time delivery REST API. | `apiKey` | Yes | Unknown | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/1296288-3afe2f03-cfb3-427c-9de7-3a0dbd1a8287?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D1296288-3afe2f03-cfb3-427c-9de7-3a0dbd1a8287%26entityType%3Dcollection) |
 
 **[⬆ Back to Index](#index)**
 <br />
