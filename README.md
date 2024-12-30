@@ -16,6 +16,7 @@ The Public APIs repository is manually curated by community members like yoursel
 
 ## Index
 
+* [Artificial Intelligence](#artificial--intelligence)
 * [Healthcare](#healthcare)
 * [Financial Services](#financial--services)
 * [Telecommunications](#telecommunications)
@@ -23,6 +24,14 @@ The Public APIs repository is manually curated by community members like yoursel
 
 <br >
 
+### Artificial Intelligence
+API | Description | Auth | HTTPS | CORS 
+|:---|:---|:---|:---|:---|
+| [Vulavula API](https://docs.lelapa.ai/category/vulavula-api) | Create deeply connected customer experiences for local African languages with the Vulavula API | `apiKey` | Yes | Unknown |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
 ### Financial Services
 API | Description | Auth | HTTPS | CORS 
 |:---|:---|:---|:---|:---|
