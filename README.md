@@ -20,6 +20,7 @@ The Public APIs repository is manually curated by community members like yoursel
 * [Healthcare](#healthcare)
 * [Finance](#finance)
 * [Geography](#geography)
+* [Government](#government)
 * [Maps](#maps)
 * [Other](#other)
 * [Telecommunications](#telecommunications)
@@ -54,6 +55,15 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
 | [AfriGIS](https://developers.afrigis.co.za/) | Access verified and validated data through various APIs avaliable | Unknown | Yes | Unknown |
+
+**[⬆ Back to Index](#index)**
+<br />
+<br />
+
+### Government
+API | Description | Auth | HTTPS | CORS |
+|:---|:---|:---|:---|:---|
+| [IEC API](https://api.elections.org.za/) | IEC API to provide the data in real-time to stakeholders including political parties, media institutions and other interested parties. | Unknown | Yes | No |
 
 **[⬆ Back to Index](#index)**
 <br />
