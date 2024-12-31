@@ -43,6 +43,7 @@ API | Description | Auth | HTTPS | CORS |
 | [NedBank API Marketplace](https://apim.nedbank.co.za/) | Resources to help of all NedBank public APIs | `apiKey` | Yes | Yes |
 | [PayFast by Network](https://developers.payfast.co.za/api) | A REST API to communicate with Payfast. | Generated MD5 Signature | Yes | Unknown | 
 | [SageOne Accounting API](https://accounting.sageone.co.za/Marketing/DeveloperProgram.aspx) | A seamless interface to connect your payments systems. | `apiKey` | Yes | Unknown | 
+| [SayThanks](https://app.saythanks.app/api/documentation#) | Local Vouchers API. | User login | Yes | Unknown | 
 | [VodaPay Developer Gateway API](https://docs.vodapaygateway.vodacom.co.za/) | The Accounting API is an interface for accessing Accounting data. The API also exposes a lot of the functionality available in Accounting. | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
