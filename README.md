@@ -14,7 +14,6 @@ The Public APIs repository is manually curated by community members like yoursel
 
 <br />
 
-
 ## Index
 
 * [Artificial Intelligence/AI](#artificial-intelligence)
@@ -22,10 +21,9 @@ The Public APIs repository is manually curated by community members like yoursel
 * [Finance](#finance)
 * [Geography](#geography)
 * [Maps](#maps)
+* [Other](#other)
 * [Telecommunications](#telecommunications)
 * [Transportation](#transportation)
-* [Other](#other)
-
 <br />
 
 ### Artificial Intelligence
@@ -36,6 +34,7 @@ API | Description | Auth | HTTPS | CORS |
 **[⬆ Back to Index](#index)**
 <br />
 <br />
+
 ### Finance
 API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
@@ -49,6 +48,7 @@ API | Description | Auth | HTTPS | CORS |
 **[⬆ Back to Index](#index)**
 <br />
 <br />
+
 ### Geography
 API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
@@ -57,6 +57,7 @@ API | Description | Auth | HTTPS | CORS |
 **[⬆ Back to Index](#index)**
 <br />
 <br />
+
 ### Maps
 API | Description | Auth | HTTPS | CORS |
 |---|:---|:---|:---|:---|
@@ -65,14 +66,16 @@ API | Description | Auth | HTTPS | CORS |
 **[⬆ Back to Index](#index)**
 <br />
 <br />
+
 ### Other
-API | Description | Auth | HTTPS | CORS |
-|---|:---|:---|:---|:---|
-| [EskomSePush API V2.0](https://eskomsepush.gumroad.com/l/api) | The Eskom Loadshedding API provided by EskomSePush. | `esp_token` | Yes | Unknown |
+API | Description | Auth | HTTPS | CORS | Call this API |
+|---|:---|:---|:---|:---|:---|
+| [EskomSePush API V2.0](https://eskomsepush.gumroad.com/l/api) | The Eskom Loadshedding API provided by EskomSePush. | `esp_token` | Yes | Unknown | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/1296288-3afe2f03-cfb3-427c-9de7-3a0dbd1a8287?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D1296288-3afe2f03-cfb3-427c-9de7-3a0dbd1a8287%26entityType%3Dcollection) |
 
 **[⬆ Back to Index](#index)**
 <br />
 <br />
+
 ### Telecommunications
 API | Description | Auth | HTTPS | CORS |
 |---|:---|:---|:---|:---|
@@ -81,12 +84,13 @@ API | Description | Auth | HTTPS | CORS |
 **[⬆ Back to Index](#index)**
 <br />
 <br />
-API | Description | Auth | HTTPS | CORS | Call this API |
-|---|:---|:---|:---|:---|:---|
-| [Collivery.net API V3](https://collivery.net/integration/api/v3/) | The Collivery.net courier API. | `api_token` | Yes | Unknown | |
-| [i-TRAFFIC](https://www.i-traffic.co.za/developers/help) | The REST API enables developers to access essential data on the i-TRAFFIC website including Incidents, Roadwork, and Cameras. | `developerKey` | Yes | Unknown | | 
-| [PUDO API](https://api-pudo.co.za/) | The API is designed to provide you with robust and flexible tools to integrate PUDO's capabilities. | No | Yes | Unknown | | 
-| [WumDrop API](https://za.wumdrop.com/developers) | WumDrop on-time delivery REST API. | `apiKey` | Yes | Unknown | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/1296288-3afe2f03-cfb3-427c-9de7-3a0dbd1a8287?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D1296288-3afe2f03-cfb3-427c-9de7-3a0dbd1a8287%26entityType%3Dcollection) |
+
+API | Description | Auth | HTTPS | CORS | 
+|---|:---|:---|:---|:---|
+| [Collivery.net API V3](https://collivery.net/integration/api/v3/) | The Collivery.net courier API. | `api_token` | Yes | Unknown | 
+| [i-TRAFFIC](https://www.i-traffic.co.za/developers/help) | The REST API enables developers to access essential data on the i-TRAFFIC website including Incidents, Roadwork, and Cameras. | `developerKey` | Yes | Unknown | 
+| [PUDO API](https://api-pudo.co.za/) | The API is designed to provide you with robust and flexible tools to integrate PUDO's capabilities. | No | Yes | Unknown |  
+| [WumDrop API](https://za.wumdrop.com/developers) | WumDrop on-time delivery REST API. | `apiKey` | Yes | Unknown | 
 
 **[⬆ Back to Index](#index)**
 <br />
