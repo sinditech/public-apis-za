@@ -79,6 +79,7 @@ API | Description | Auth | HTTPS | CORS | Call this API |
 ### Telecommunications
 API | Description | Auth | HTTPS | CORS |
 |---|:---|:---|:---|:---|
+| [MTN Developer Portal](https://developers.mtn.com/) | List of product APIs for your business. | `X-API-KEY` | Yes | Unknown | 
 | [Vodacom Pulse API](https://apipulse.vodacom.co.za/) | List of APIs for your business. | Unknown | Yes | Unknown | |
 
 **[⬆ Back to Index](#index)**
