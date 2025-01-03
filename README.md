@@ -66,7 +66,7 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
 | [IEC API](https://api.elections.org.za/) | IEC API to provide the data in real-time to stakeholders including political parties, media institutions, and other interested parties. | Unknown | Yes | No |
-| [eTenders OCDS AP](https://ocds-api.etenders.gov.za/swagger/index.html) | ETenders OCDS Public API. This API provides ETenders OCDS Releases. | No | Yes | No | 
+| [eTenders OCDS API](https://ocds-api.etenders.gov.za/swagger/index.html) | ETenders OCDS Public API. This API provides ETenders OCDS Releases. | No | Yes | No | 
 | [eThekwini Cemeteries and Crematoria Services Department](https://cemeteries-api.durban.gov.za) | Public Burial Search Web API. | Unknown | Yes | No | 
 
 **[⬆ Back to Index](#index)**
