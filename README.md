@@ -86,7 +86,8 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS | Call this API |
 |---|:---|:---|:---|:---|:---|
 | [COASA Case Management API](https://casefile.org.za/api/ui/) | The COASA (Community Advice Offices South Africa) Case Management API. | `apiKey` | Yes | Unknown | | 
-| [EskomSePush API V2.0](https://eskomsepush.gumroad.com/l/api) | The Eskom Loadshedding API provided by EskomSePush. | `esp_token` | Yes | Unknown | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/1296288-3afe2f03-cfb3-427c-9de7-3a0dbd1a8287?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D1296288-3afe2f03-cfb3-427c-9de7-3a0dbd1a8287%26entityType%3Dcollection) |
+| [EskomSePush API V2.0](https://eskomsepush.gumroad.com/l/api) | The Eskom Loadshedding API provided by EskomSePush. | `esp_token` | Yes | Unknown | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/1296288-3afe2f03-cfb3-427c-9de7-3a0dbd1a8287?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D1296288-3afe2f03-cfb3-427c-9de7-3a0dbd1a8287%26entityType%3Dcollection) | 
+| [Takealot Seller API](https://seller-api.takealot.com/api-docs/) | The Takealot Seller API for Offers represents the initial phase of the Seller API. With this, you will be able to manage your offers in an automated and scalable way. | `apiKey` | Yes | Unknown | | 
 | [VerifyID](https://api.verifyid.co.za/apidocs/front_index.php) | VerifyID's real-time Home Affairs ID Verification with ID Photo and provide details from an offline database when DHA is down. | `apiKey` | Yes | Unknown | | 
 
 **[⬆ Back to Index](#index)**
