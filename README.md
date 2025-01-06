@@ -39,17 +39,20 @@ API | Description | Auth | HTTPS | CORS |
 ### Finance
 API | Description | Auth | HTTPS | CORS | Call this API |
 |:---|:---|:---|:---|:---|:---|
-| [AfricanBank Bank API](https://api.grindrodbank.co.za/api/docs) | This is the African Bank API information page | `OAuth2` and `OIDC` | Yes | Unknown | |
-| [Netcash](https://api.netcash.co.za/) | Netcash Developers Documentation |  Software Vendor Key GUID | Yes | Unknown | |
+| [AfricanBank Bank API](https://api.grindrodbank.co.za/api/docs) | This is the African Bank API information page | `OAuth2` and `OIDC` | Yes | Unknown | | 
+| [Altcoin Trader API](https://docs.payflex.co.za/) | Payflex integration API. | `OAuth` | Yes | Unknown | | 
+| [Netcash](https://api.netcash.co.za/) | Netcash Developers Documentation |  Software Vendor Key GUID | Yes | Unknown | | 
 | [NedBank API Marketplace](https://apim.nedbank.co.za/) | Resources to help of all NedBank public APIs | `apiKey` | Yes | Yes | | 
 | [OVEX](https://docs.ovex.io/) | A cryptocurrency exchange offering fiat onramps for buying and selling crypto. | `apiKey` | Yes | Unknown | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/27223512-74260e3c-9c8c-43d8-9cac-8e94d3517788?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D27223512-74260e3c-9c8c-43d8-9cac-8e94d3517788%26entityType%3Dcollection) | 
 | [PayGenius](https://developer.paygenius.co.za/) | PayGenius payment integration API. | `X-Token` | Yes | Unknown | | 
 | [PayFast by Network](https://developers.payfast.co.za/api) | A REST API to communicate with Payfast. | Generated MD5 Signature | Yes | Unknown | | 
-| [PaySoft](https://docs.paysoft.co.za/) | The Paysoft API gives developers access to the processing platform used by Paysoft. | `apiKey` | Yes | Unknown | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/6864947-243ba560-c8b8-44a2-810a-854e7ec98d2a-SVtZwmhh?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D6864947-243ba560-c8b8-44a2-810a-854e7ec98d2a-SVtZwmhh%26entityType%3Dcollection) |  
+| [PayFlex](https://docs.payflex.co.za/) | Payflex integration API. | `OAuth` | Yes | Unknown | | 
+| [PaySoft](https://docs.paysoft.co.za/) | The Paysoft API gives developers access to the processing platform used by Paysoft. | `apiKey` | Yes | Unknown | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/6864947-243ba560-c8b8-44a2-810a-854e7ec98d2a-SVtZwmhh?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D6864947-243ba560-c8b8-44a2-810a-854e7ec98d2a-SVtZwmhh%26entityType%3Dcollection) | 
 | [SageOne Accounting API](https://accounting.sageone.co.za/Marketing/DeveloperProgram.aspx) | The Accounting API is an interface for accessing Accounting data. The API also exposes a lot of the functionality available in Accounting. | `apiKey` | Yes | Unknown | | 
 | [SayThanks](https://app.saythanks.app/api/documentation#) | Local Vouchers API. | User login | Yes | Unknown | | 
+| [South African Reserve Bank (SARB) Web API](https://custom.resbank.co.za/SarbWebApi/) | This API provides information that is used by the SARB Website. | No | Yes | Unknown | | 
 | [Stitch Money API](https://docs.stitch.money/api) | Provides a powerful API built on direct integrations with multiple banks. | `OAuth2` | Yes | Unknown | | 
-| [VodaPay Developer Gateway API](https://docs.vodapaygateway.vodacom.co.za/) | A seamless interface to connect your payments systems. | `apiKey` | Yes | Unknown | |
+| [VodaPay Developer Gateway API](https://docs.vodapaygateway.vodacom.co.za/) | A seamless interface to connect your payments systems. | `apiKey` | Yes | Unknown | | 
 
 **[⬆ Back to Index](#index)**
 <br />
@@ -88,7 +91,9 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS | Call this API |
 |---|:---|:---|:---|:---|:---|
 | [COASA Case Management API](https://casefile.org.za/api/ui/) | The COASA (Community Advice Offices South Africa) Case Management API. | `apiKey` | Yes | Unknown | | 
+| [Domains.co.za API](https://docs.domains.co.za/) | Domains.co.za Domain names API. | User login/JWT | Yes | Unknown | | 
 | [EskomSePush API V2.0](https://eskomsepush.gumroad.com/l/api) | The Eskom Loadshedding API provided by EskomSePush. | `esp_token` | Yes | Unknown | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/1296288-3afe2f03-cfb3-427c-9de7-3a0dbd1a8287?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D1296288-3afe2f03-cfb3-427c-9de7-3a0dbd1a8287%26entityType%3Dcollection) | 
+| [NPS-Tracker API](https://api.nptracker.co.za/docs/) | Number Plate System (NPS) created this API interface to aid developers in intergrating NPS solutions into their projects/products. | `apiKey` | Yes | Unknown | | 
 | [Takealot Seller API](https://seller-api.takealot.com/api-docs/) | The Takealot Seller API for Offers represents the initial phase of the Seller API. With this, you will be able to manage your offers in an automated and scalable way. | `apiKey` | Yes | Unknown | | 
 | [VerifyID](https://api.verifyid.co.za/apidocs/front_index.php) | VerifyID's real-time Home Affairs ID Verification with ID Photo and provide details from an offline database when DHA is down. | `apiKey` | Yes | Unknown | | 
 
