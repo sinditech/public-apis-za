@@ -30,7 +30,8 @@ The Public APIs repository is manually curated by community members like yoursel
 ### Artificial Intelligence
 API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
-| [Vulavula API by Lelapa AI](https://docs.lelapa.ai/category/vulavula-api) | Create deeply connected customer experiences for local African languages with the Vulavula API | `X-CLIENT-TOKEN` | Yes | Unknown |
+| [Botlhale AI Docs](https://docs-apis.botlhale.xyz/) | Botlhale AI breaks language barriers for African businesses and their customers. | `apiKey` | Yes | Unknown | 
+| [Vulavula API by Lelapa AI](https://docs.lelapa.ai/category/vulavula-api) | Create deeply connected customer experiences for local African languages with the Vulavula API | `X-CLIENT-TOKEN` | Yes | Unknown | 
 
 **[⬆ Back to Index](#index)**
 <br />
