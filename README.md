@@ -39,6 +39,7 @@ API | Description | Auth | HTTPS | CORS |
 ### Finance
 API | Description | Auth | HTTPS | CORS | Call this API |
 |:---|:---|:---|:---|:---|:---|
+| [Absa Developer Portal](https://developer.absa.africa/static/home) | The Absa Access API Developer Portal is a framework that gives clients standardised, simplified and secure access to the bank’s services through a direct integration. | `OAuth` | Yes | Unknown | | 
 | [AfricanBank Bank API](https://api.grindrodbank.co.za/api/docs) | This is the African Bank API information page | `OAuth` and `OIDC` | Yes | Unknown | | 
 | [Altcoin Trader API](https://docs.payflex.co.za/) | AltcoinTrader API. | `OAuth` | Yes | Unknown | | 
 | [Commspace API](https://apidocs.commspace.co.za) | Commspace API to manage your commission and fees. | `apiKey` | Yes | Unknown | | 
