@@ -74,7 +74,7 @@ API | Description | Auth | HTTPS | CORS |
 ### Government
 API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
-| [CIPC](https://guide.cipc.co.za/) | CIPC digitally records almost all information it receives, and makes this available to the public through its own website and through the CIPC RESTful API. | No | Yes | No |
+| [CIPC](https://guide.cipc.co.za/) | CIPC digitally records almost all information it receives, and makes this available to the public through its own website and through the CIPC RESTful API. | `OAuth` | Yes | No |
 | [IEC API](https://api.elections.org.za/) | IEC API to provide the data in realtime to stakeholders including political parties, media institutions, and other interested parties. | Unknown | Yes | No |
 | [eTenders OCDS API](https://ocds-api.etenders.gov.za/swagger/index.html) | ETenders OCDS Public API. This API provides ETenders OCDS Releases. | No | Yes | No | 
 | [eThekwini Cemeteries and Crematoria Services Department](https://cemeteries-api.durban.gov.za) | Durban Public Burial Search Web API. | Unknown | Yes | No | 
