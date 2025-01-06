@@ -41,6 +41,7 @@ API | Description | Auth | HTTPS | CORS | Call this API |
 |:---|:---|:---|:---|:---|:---|
 | [AfricanBank Bank API](https://api.grindrodbank.co.za/api/docs) | This is the African Bank API information page | `OAuth` and `OIDC` | Yes | Unknown | | 
 | [Altcoin Trader API](https://docs.payflex.co.za/) | AltcoinTrader API. | `OAuth` | Yes | Unknown | | 
+| [Commspace API](https://apidocs.commspace.co.za) | Commspace API to manage your commission and fees. | `apiKey` | Yes | Unknown | | 
 | [Netcash](https://api.netcash.co.za/) | Netcash Developers Documentation |  Software Vendor Key GUID | Yes | Unknown | | 
 | [NedBank API Marketplace](https://apim.nedbank.co.za/) | Resources to help of all NedBank public APIs | `apiKey` | Yes | Yes | | 
 | [OVEX](https://docs.ovex.io/) | A cryptocurrency exchange offering fiat onramps for buying and selling crypto. | `apiKey` | Yes | Unknown | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/27223512-74260e3c-9c8c-43d8-9cac-8e94d3517788?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D27223512-74260e3c-9c8c-43d8-9cac-8e94d3517788%26entityType%3Dcollection) | 
@@ -49,7 +50,8 @@ API | Description | Auth | HTTPS | CORS | Call this API |
 | [PayFlex](https://docs.payflex.co.za/) | Payflex integration API. | `OAuth` | Yes | Unknown | | 
 | [PaySoft](https://docs.paysoft.co.za/) | The Paysoft API gives developers access to the processing platform used by Paysoft. | `apiKey` | Yes | Unknown | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/6864947-243ba560-c8b8-44a2-810a-854e7ec98d2a-SVtZwmhh?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D6864947-243ba560-c8b8-44a2-810a-854e7ec98d2a-SVtZwmhh%26entityType%3Dcollection) | 
 | [SageOne Accounting API](https://accounting.sageone.co.za/Marketing/DeveloperProgram.aspx) | The Accounting API is an interface for accessing Accounting data. The API also exposes a lot of the functionality available in Accounting. | `apiKey` | Yes | Unknown | | 
-| [SayThanks](https://app.saythanks.app/api/documentation#) | Local Vouchers API. | User login | Yes | Unknown | | 
+| [SayThanks](https://app.saythanks.app/api/documentation) | Local Vouchers API. | User login | Yes | Unknown | | 
+| [SimplePay](https://www.simplepay.co.za/api-docs/) | SimplePay simplified Payroll software and payroll processing API. | `apiKey` | Yes | Unknown | | 
 | [South African Reserve Bank (SARB) Web API](https://custom.resbank.co.za/SarbWebApi/) | This API provides information that is used by the SARB Website. | No | Yes | Unknown | | 
 | [Stitch Money API](https://docs.stitch.money/api) | Provides a powerful API built on direct integrations with multiple banks. | `OAuth` | Yes | Unknown | | 
 | [VodaPay Developer Gateway API](https://docs.vodapaygateway.vodacom.co.za/) | A seamless interface to connect your payments systems. | `apiKey` | Yes | Unknown | | 
@@ -112,12 +114,15 @@ API | Description | Auth | HTTPS | CORS |
 <br />
 
 ### Transportation
-API | Description | Auth | HTTPS | CORS | 
-|---|:---|:---|:---|:---|
-| [Collivery.net API V3](https://collivery.net/integration/api/v3/) | The Collivery.net courier API. | `api_token` | Yes | Unknown | 
-| [i-TRAFFIC](https://www.i-traffic.co.za/developers/help) | The REST API enables developers to access essential data on the i-TRAFFIC website including Incidents, Roadwork, and Cameras. | `developerKey` | Yes | Unknown | 
-| [PUDO API](https://api-pudo.co.za/) | The API is designed to provide you with robust and flexible tools to integrate PUDO's capabilities. | No | Yes | Unknown |  
-| [WumDrop API](https://za.wumdrop.com/developers) | WumDrop on-time delivery REST API. | `apiKey` | Yes | Unknown | 
+API | Description | Auth | HTTPS | CORS | Call this API | 
+|---|:---|:---|:---|:---|:---|
+| [Collivery.net API V3](https://collivery.net/integration/api/v3/) | The Collivery.net courier API. | `api_token` | Yes | Unknown | |  
+| [Deliveree - Delivery Management](https://deliveree.co.za/pages/api) | The Deliveree Client API. | Unknown | Yes | Unknown | |  
+| [Droppa](https://documenter.getpostman.com/view/28395552/2sA3e1CqRq) | Droppa API, developers can integrate our delivery platform into their applications. The API is designed for developers to check prices, book an immediate or scheduled delivery and follow updates until delivery completion. | `apiKey` | Yes | Unknown | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/28395552-933fdf27-93fb-4f35-8f68-da538ff0d500-2sA3e1CqRq?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D28395552-933fdf27-93fb-4f35-8f68-da538ff0d500-2sA3e1CqRq%26entityType%3Dcollection) | 
+| [i-TRAFFIC](https://www.i-traffic.co.za/developers/help) | The REST API enables developers to access essential data on the i-TRAFFIC website including Incidents, Roadwork, and Cameras. | `developerKey` | Yes | Unknown | |  
+| [justGO API](https://api.justgo.co.za/api) | justGO cheap bus/shuttle/lift club and flight API | User login | Yes | Unknown | | 
+| [PUDO API](https://api-pudo.co.za/) | The API is designed to provide you with robust and flexible tools to integrate PUDO's capabilities. | No | Yes | Unknown | | 
+| [WumDrop API](https://za.wumdrop.com/developers) | WumDrop on-time delivery REST API. | `apiKey` | Yes | Unknown | |  
 
 **[⬆ Back to Index](#index)**
 <br />
