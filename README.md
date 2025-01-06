@@ -121,7 +121,7 @@ API | Description | Auth | HTTPS | CORS | Call this API |
 | [Droppa](https://documenter.getpostman.com/view/28395552/2sA3e1CqRq) | Droppa API, developers can integrate our delivery platform into their applications. The API is designed for developers to check prices, book an immediate or scheduled delivery and follow updates until delivery completion. | `apiKey` | Yes | Unknown | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/28395552-933fdf27-93fb-4f35-8f68-da538ff0d500-2sA3e1CqRq?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D28395552-933fdf27-93fb-4f35-8f68-da538ff0d500-2sA3e1CqRq%26entityType%3Dcollection) | 
 | [i-TRAFFIC](https://www.i-traffic.co.za/developers/help) | The REST API enables developers to access essential data on the i-TRAFFIC website including Incidents, Roadwork, and Cameras. | `developerKey` | Yes | Unknown | |  
 | [justGO API](https://api.justgo.co.za/api) | justGO cheap bus/shuttle/lift club and flight API | User login | Yes | Unknown | | 
-| [PUDO API](https://api-pudo.co.za/) | The API is designed to provide you with robust and flexible tools to integrate PUDO's capabilities. | No | Yes | Unknown | | 
+| [PUDO (Pick Up Drop Off) API](https://api-pudo.co.za/) | The API is designed to provide you with robust and flexible tools to integrate PUDO's capabilities. | No | Yes | Unknown | | 
 | [WumDrop API](https://za.wumdrop.com/developers) | WumDrop on-time delivery REST API. | `apiKey` | Yes | Unknown | |  
 
 **[⬆ Back to Index](#index)**
