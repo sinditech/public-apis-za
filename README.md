@@ -40,7 +40,7 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS | Call this API |
 |:---|:---|:---|:---|:---|:---|
 | [AfricanBank Bank API](https://api.grindrodbank.co.za/api/docs) | This is the African Bank API information page | `OAuth2` and `OIDC` | Yes | Unknown | | 
-| [Altcoin Trader API](https://docs.payflex.co.za/) | Payflex integration API. | `OAuth` | Yes | Unknown | | 
+| [Altcoin Trader API](https://docs.payflex.co.za/) | AltcoinTrader API. | `OAuth` | Yes | Unknown | | 
 | [Netcash](https://api.netcash.co.za/) | Netcash Developers Documentation |  Software Vendor Key GUID | Yes | Unknown | | 
 | [NedBank API Marketplace](https://apim.nedbank.co.za/) | Resources to help of all NedBank public APIs | `apiKey` | Yes | Yes | | 
 | [OVEX](https://docs.ovex.io/) | A cryptocurrency exchange offering fiat onramps for buying and selling crypto. | `apiKey` | Yes | Unknown | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/27223512-74260e3c-9c8c-43d8-9cac-8e94d3517788?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D27223512-74260e3c-9c8c-43d8-9cac-8e94d3517788%26entityType%3Dcollection) | 
