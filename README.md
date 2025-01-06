@@ -39,7 +39,7 @@ API | Description | Auth | HTTPS | CORS |
 ### Finance
 API | Description | Auth | HTTPS | CORS | Call this API |
 |:---|:---|:---|:---|:---|:---|
-| [AfricanBank Bank API](https://api.grindrodbank.co.za/api/docs) | This is the African Bank API information page | `OAuth2` and `OIDC` | Yes | Unknown | | 
+| [AfricanBank Bank API](https://api.grindrodbank.co.za/api/docs) | This is the African Bank API information page | `OAuth` and `OIDC` | Yes | Unknown | | 
 | [Altcoin Trader API](https://docs.payflex.co.za/) | AltcoinTrader API. | `OAuth` | Yes | Unknown | | 
 | [Netcash](https://api.netcash.co.za/) | Netcash Developers Documentation |  Software Vendor Key GUID | Yes | Unknown | | 
 | [NedBank API Marketplace](https://apim.nedbank.co.za/) | Resources to help of all NedBank public APIs | `apiKey` | Yes | Yes | | 
@@ -51,7 +51,7 @@ API | Description | Auth | HTTPS | CORS | Call this API |
 | [SageOne Accounting API](https://accounting.sageone.co.za/Marketing/DeveloperProgram.aspx) | The Accounting API is an interface for accessing Accounting data. The API also exposes a lot of the functionality available in Accounting. | `apiKey` | Yes | Unknown | | 
 | [SayThanks](https://app.saythanks.app/api/documentation#) | Local Vouchers API. | User login | Yes | Unknown | | 
 | [South African Reserve Bank (SARB) Web API](https://custom.resbank.co.za/SarbWebApi/) | This API provides information that is used by the SARB Website. | No | Yes | Unknown | | 
-| [Stitch Money API](https://docs.stitch.money/api) | Provides a powerful API built on direct integrations with multiple banks. | `OAuth2` | Yes | Unknown | | 
+| [Stitch Money API](https://docs.stitch.money/api) | Provides a powerful API built on direct integrations with multiple banks. | `OAuth` | Yes | Unknown | | 
 | [VodaPay Developer Gateway API](https://docs.vodapaygateway.vodacom.co.za/) | A seamless interface to connect your payments systems. | `apiKey` | Yes | Unknown | | 
 
 **[⬆ Back to Index](#index)**
