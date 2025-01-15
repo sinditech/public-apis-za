@@ -98,11 +98,13 @@ API | Description | Auth | HTTPS | CORS |
 ### Other
 API | Description | Auth | HTTPS | CORS | Call this API |
 |---|:---|:---|:---|:---|:---|
+| [Adzuna API](https://developer.adzuna.com/) | Get the very latest ads and data with Adzuna's API. | `apiKey` | Yes | Unknown | | 
 | [COASA Case Management API](https://casefile.org.za/api/ui/) | The COASA (Community Advice Offices South Africa) Case Management API. | `apiKey` | Yes | Unknown | | 
 | [Domains.co.za API](https://docs.domains.co.za/) | Domains.co.za Domain names API. | User login/JWT | Yes | Unknown | | 
 | [EskomSePush API V2.0](https://eskomsepush.gumroad.com/l/api) | The Eskom Loadshedding API provided by EskomSePush. | `esp_token` | Yes | Unknown | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/1296288-3afe2f03-cfb3-427c-9de7-3a0dbd1a8287?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D1296288-3afe2f03-cfb3-427c-9de7-3a0dbd1a8287%26entityType%3Dcollection) | 
 | [Fuel SA API](https://api.fuelsa.co.za/apidocs/) |JSON API for Fuel SA, which provides current and history fuel data for South Africa. | `apiKey` | Yes | Unknown | | 
 | [NPS-Tracker API](https://api.nptracker.co.za/docs/) | Number Plate System (NPS) created this API interface to aid developers in integrating NPS solutions into their projects/products. | `apiKey` | Yes | Unknown | | 
+| [OSINT API](https://api.osint.co.za/documentation.php) | OSINT REST API. | `apiKey` | Yes | No | | 
 | [Quicket API](https://docs.quicket.com/) | Quicket API Developer Portal. | `apiKey` | Yes | Unknown | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/31515490-7929ab0c-ee00-4d73-8fc6-300c9675c02b-2sA3BgAvfD?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D31515490-7929ab0c-ee00-4d73-8fc6-300c9675c02b-2sA3BgAvfD%26entityType%3Dcollection) | 
 | [South African Lottery Results API](https://resultsza.co.za/api_docs) | ResultZA Latest South African Lottery & Powerball Draw Results API. | `apiKey` | Yes | Unknown | | 
 | [Stolen Vehicles API](https://stolenvehicles.co.za/home/api) | An API for you to use in other applications to check whether a vehicle was stolen or not. | `apiKey` | Yes | Unknown | | 
