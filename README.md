@@ -42,7 +42,7 @@ API | Description | Auth | HTTPS | CORS | Call this API |
 |:---|:---|:---|:---|:---|:---|
 | [Absa Developer Portal](https://developer.absa.africa/static/home) | The Absa Access API Developer Portal is a framework that gives clients standardised, simplified and secure access to the bank’s services through a direct integration. | `OAuth` | Yes | Unknown | | 
 | [AfricanBank Bank API](https://api.grindrodbank.co.za/api/docs) | This is the African Bank API information page | `OAuth` and `OIDC` | Yes | Unknown | | 
-| [Altcoin Trader API](https://docs.payflex.co.za/) | AltcoinTrader API. | `OAuth` | Yes | Unknown | | 
+| [Altcoin Trader API](https://www.altcointrader.co.za/api/) | The official API for AltcoinTrader. This allows you to get all the data for all the coins in one shot. | `OAuth` | Yes | Unknown | | 
 | [Bob Pay API](https://api-docs.bob.co.za/bobpay) | The Bob Pay API enables seamless integration with Bob Pay, allowing you to start accepting payments quickly and easily. | `apiKey` | Yes | Unknown | | 
 | [Commspace API](https://apidocs.commspace.co.za) | Commspace API to manage your commission and fees. | `apiKey` | Yes | Unknown | | 
 | [iKhokha Pay API](https://developer.ikhokha.com/overview) | iKhokha Pay API Integration Guide. | `apiKey` | Yes | Unknown | | 
@@ -79,11 +79,11 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
 | [CIPC](https://guide.cipc.co.za/) | CIPC digitally records almost all information it receives, and makes this available to the public through its own website and through the CIPC RESTful API. | `OAuth` | Yes | No |
-| [IEC API](https://api.elections.org.za/) | IEC API to provide the data in realtime to stakeholders including political parties, media institutions, and other interested parties. | Unknown | Yes | No |
+| [IEC API](https://api.elections.org.za/) | IEC API to provide the data in real-time to stakeholders, including political parties, media institutions, and other interested parties. | Unknown | Yes | No |
 | [eTenders OCDS API](https://ocds-api.etenders.gov.za/swagger/index.html) | ETenders OCDS Public API. This API provides ETenders OCDS Releases. | No | Yes | No | 
 | [eThekwini Cemeteries and Crematoria Services Department](https://cemeteries-api.durban.gov.za) | Durban Public Burial Search Web API. | Unknown | Yes | No | 
 | [Municipal Money API](https://municipaldata.treasury.gov.za/docs) | The Municipal Money API publishes the financial information of South African municipalities in a machine-friendly format. | No | Yes | No | 
-| [Parliamentary Monitoring Group API](https://github.com/OpenUpSA/pmg-cms-2/blob/master/API.md) | The API for the [Parliamentary Monitoring Group](https://pmg.org.za/) in Cape Town, South Africa. This allow citizens and other interested parties to monitor what's going on in the South African parliament | Either No or `Authentication-Token` in header | Yes | No | 
+| [Parliamentary Monitoring Group API](https://github.com/OpenUpSA/pmg-cms-2/blob/master/API.md) | The API for the [Parliamentary Monitoring Group](https://pmg.org.za/) in Cape Town, South Africa. This allows citizens and other interested parties to monitor what's going on in the South African parliament. | Either No or `Authentication-Token` in header | Yes | No | 
 
 **[⬆ Back to Index](#index)**
 <br />
