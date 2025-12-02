@@ -41,7 +41,7 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS | Call this API |
 |:---|:---|:---|:---|:---|:---|
 | [Absa Developer Portal](https://developer.absa.africa/static/home) | The Absa Access API Developer Portal is a framework that gives clients standardised, simplified and secure access to the bank’s services through a direct integration. | `OAuth` | Yes | Unknown | | 
-| [Adumo Online Developer](https://developers.adumoonline.com/) | Adumo Online provides an extensive resource centre enabling you to gain easy access to all the information required for a successful integration to any one of Adumo Online's payment solutions. | `Token` | Yes | Unknown | | 
+| [Adumo Online Developer](https://developers.adumoonline.com/) | Adumo Online provides an extensive resource centre enabling you to gain easy access to all the information required for a successful integration to any one of Adumo Online's payment solutions. | `Token` (JWT-Token) | Yes | Unknown | | 
 | [AfricanBank Bank API](https://api.grindrodbank.co.za/api/docs) | This is the African Bank API information page | `OAuth` and `OIDC` | Yes | Unknown | | 
 | [Altcoin Trader API](https://www.altcointrader.co.za/api/) | The official API for AltcoinTrader. This allows you to get all the data for all the coins in one shot. | `OAuth` | Yes | Unknown | | 
 | [Bob Pay API](https://api-docs.bob.co.za/bobpay) | The Bob Pay API enables seamless integration with Bob Pay, allowing you to start accepting payments quickly and easily. | `apiKey` | Yes | Unknown | | 
