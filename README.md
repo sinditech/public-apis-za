@@ -124,6 +124,7 @@ API | Description | Auth | HTTPS | CORS | Call this API |
 API | Description | Auth | HTTPS | CORS |
 |---|:---|:---|:---|:---|
 | [MTN Developer Portal](https://developers.mtn.com/) | List of product APIs for your business. | `X-API-KEY` | Yes | Unknown | 
+| [SuperSIM](https://supersim.co.za/api/docs) | SIM card management API for lookup, activation, swaps, usage, and wallet balances. | `X-API-TOKEN` | Yes | No | 
 | [Vodacom Pulse API](https://apipulse.vodacom.co.za/) | List of APIs for your business. | Unknown | Yes | Unknown | |
 
 **[⬆ Back to Index](#index)**
