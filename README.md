@@ -123,6 +123,7 @@ API | Description | Auth | HTTPS | CORS | Call this API |
 ### Telecommunications
 API | Description | Auth | HTTPS | CORS |
 |---|:---|:---|:---|:---|
+| [Freepaid Airtime](https://freepaid.co.za/airtime-api.php) | SOAP API for South African airtime and data orders, balances, and voucher retrieval. | `user/pass` | Yes | No | 
 | [MTN Developer Portal](https://developers.mtn.com/) | List of product APIs for your business. | `X-API-KEY` | Yes | Unknown | 
 | [Vodacom Pulse API](https://apipulse.vodacom.co.za/) | List of APIs for your business. | Unknown | Yes | Unknown | |
 
