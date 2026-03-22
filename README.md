@@ -123,8 +123,11 @@ API | Description | Auth | HTTPS | CORS | Call this API |
 ### Telecommunications
 API | Description | Auth | HTTPS | CORS |
 |---|:---|:---|:---|:---|
-| [Freepaid Airtime](https://freepaid.co.za/airtime-api.php) | SOAP API for South African airtime and data orders, balances, and voucher retrieval. | `user/pass` | Yes | No | 
+| [AllNetAirtime](https://allnetairtime.co.za/api/docs/) | Vendor API for South African universal airtime voucher registration, balances, and orders. | `X-API-KEY` | Yes | No | | 
+| [Freepaid Airtime](https://freepaid.co.za/airtime-api.php) | SOAP API for South African airtime and data orders, balances, and voucher retrieval. | `User-Agent` | Yes | No | 
 | [MTN Developer Portal](https://developers.mtn.com/) | List of product APIs for your business. | `X-API-KEY` | Yes | Unknown | 
+| [Simcloud](https://simcloud.co.za/api/sms.html) | SMS API for sending messages and checking delivery status in South Africa. | `OAuth` | Yes | No | 
+| [SuperSIM](https://supersim.co.za/api/docs) | SIM card management API for lookup, activation, swaps, usage, and wallet balances. | `X-API-TOKEN` | Yes | No | 
 | [Vodacom Pulse API](https://apipulse.vodacom.co.za/) | List of APIs for your business. | Unknown | Yes | Unknown | |
 
 **[⬆ Back to Index](#index)**
