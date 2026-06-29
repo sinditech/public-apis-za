@@ -62,6 +62,7 @@ API | Description | Auth | HTTPS | CORS | Call this API |
 | [South African Reserve Bank (SARB) Web API](https://custom.resbank.co.za/SarbWebApi/) | This API provides information that is used by the SARB Website. | No | Yes | Unknown | | 
 | [Stitch Money API](https://docs.stitch.money/api) | Provides a powerful API built on direct integrations with multiple banks. | `OAuth` | Yes | Unknown | | 
 | [VodaPay Developer Gateway API](https://docs.vodapaygateway.vodacom.co.za/) | A seamless interface to connect your payments systems. | `apiKey` | Yes | Unknown | | 
+| [Yoco Developers Hub](https://developer.yoco.com/) | The Yoco Developer Hub offers a robust suite of APIs, SDKs, payment plugins and developer resources, making it easy to build and integrate with the Yoco platform. | `OAuth` | Yes | Unknown | | 
 
 **[⬆ Back to Index](#index)**
 <br />
